@@ -1,4 +1,4 @@
-# Day 95
+# Day 96
 
 Built a custom website using an API
 
